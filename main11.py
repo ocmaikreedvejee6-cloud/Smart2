@@ -26,7 +26,7 @@ EMAIL_ADDRESS = "growpfiveim312@gmail.com"
 EMAIL_APP_PASSWORD = "qerlwnbhfcaprcll"
 RECEIVER_EMAIL = "ocmaikreedvejee6@gmail.com"
 
-NGROK_AUTH_TOKEN = "YOUR_NGROK_TOKEN"
+NGROK_AUTH_TOKEN = "armband-grill-pentagram.ngrok-free.dev"
 
 PERSON_DETECT_INTERVAL = 3
 VIDEO_TIMEOUT = 3
